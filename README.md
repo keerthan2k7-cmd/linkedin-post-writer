@@ -1,4 +1,5 @@
 LinkedIn Post Writer
+https://chatbot.getmindpal.com/linkedin-post-writer-5p3
 A simple AI-powered LinkedIn Post Writer that helps users create professional and engaging LinkedIn posts in seconds. The tool generates content based on a given topic, making it easier to maintain a consistent online presence and improve audience engagement.
 Features
 Generate LinkedIn posts instantly
